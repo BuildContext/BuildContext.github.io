@@ -1,0 +1,18 @@
+{
+  "applinks": {
+      "details": [
+           {
+				"appIDs": ["D49EE9WGSW.ua.concord.neobank.business", "D7P28P4V65.fuib.pumb-ispot", "JVAX7U4FD5.com.unitybars.bone.personal.fbanking", "6GQDQX6TZ5.com.abank24.mobapplication", "WCW4DS22JH.com.wallet.komunalka", "WCW4DS22JH.com.wallet.gerc", "XJRM4JC72M.com.dyvotech.app.sportbank", "64SV6MAUQ5.com.creditdnepr.freebank", "9E63XVFZAH.izibank.ua.app", "LK7J8D2SS7.com.ftband.mono", "9SU9B839US.ugb.ugb-banking-ios.release", "PNR8XTUCDR.ua.grant.smart", "QE23YWVJ9G.ua.pb.privat24", "V59RZE6YR7.ua.alfabank.mobile.ios",  "L9M3XEVH54.ua.gov.bank.nbu.test.QRPayTest6","8GUP5X4NPW.ua.grant.smart", "Y76G695277.ua.gov.bank.nbu.smp.SMPNBU", "75S94S6V95.com.t18.bone.personal.globus", "5GNN68J725.com.idea.obank", "7U62JAM9J7.ua.creditagricole.mobile.app", "342Y5FWVQ5.ua.otpbank.ios"],
+				"components": [
+					{
+						"/": "/qr/*",
+						"comment": "qr-pay"
+					}
+				]
+			}
+		]
+	},
+	"webcredentials": {
+		"apps": [ "Y76G695277.ua.gov.bank.nbu.test.QRPayTest1" ]
+	}
+}
